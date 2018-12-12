@@ -4,4 +4,4 @@
 提供apk地址下载。
 
 第三方登录示例：
-！[image]https://github.com/TTThurs/pictures/blob/master/1%20.png
+![image](https://github.com/TTThurs/pictures/blob/master/1%20.png)
