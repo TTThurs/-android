@@ -8,9 +8,15 @@
 ![image](https://github.com/TTThurs/pictures/blob/master/p1.png)
 
 
+
+
+
 如下图所示，为客户端所支持的分享平台列表：
 
 ![image](https://github.com/TTThurs/pictures/blob/master/p2.png)
+
+
+
 
 
 点击微博，进入微博的分享界面，编辑之后发送，便可分享成功：
